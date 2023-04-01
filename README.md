@@ -29,19 +29,19 @@
 
 🌐 Tools and technologies I use:
 
-WordPress
-PHP
-React.js
-Node.js
-SEO
-HTML
-CSS
-Javascript
-MySql
-API
-Stripe
-Chart.js
-Three.js
-Particles.js
-Paypal Gateways
+WordPress,
+PHP,
+React.js,
+Node.js,
+SEO,
+HTML,
+CSS,
+Javascript,
+MySql,
+API,
+Stripe,
+Chart.js,
+Three.js,
+Particles.js,
+Paypal Gateways,
 Payment Gateway Integration
